@@ -1,0 +1,10 @@
+{
+    "Stepper.Stepper2Init|block": "[OBJ]初始化 引脚1[PIN1] 引脚2[PIN2] 每转步数[STEP] 设置速度[SPEED]",
+    "Stepper.Stepper4Init|block": "[OBJ]初始化 引脚1[PIN1] 引脚2[PIN2] 引脚3[PIN3] 引脚4[PIN4] 每转步数[STEP] 设置速度[SPEED]",
+    "Stepper.StepperStep|block": "[OBJ] 移动步数[STEP]",
+    "Stepper.OBJ.Stepper1|menu": "步进电机1",
+    "Stepper.OBJ.Stepper2|menu": "步进电机2",
+    "Stepper.OBJ.Stepper3|menu": "步进电机3",
+    "Stepper.OBJ.Stepper4|menu": "步进电机4",
+    "Stepper.OBJ.Stepper5|menu": "步进电机5"
+}

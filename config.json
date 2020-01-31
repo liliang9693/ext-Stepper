@@ -1,0 +1,36 @@
+{
+  "name": {
+    "zh-cn": "步进电机驱动库",
+    "en": "Stepper libraries"
+  },
+  "description": {
+    "zh-cn": "步进电机库的图形化编程。",
+    "en": "Graphical programming of stepper motor library."
+  },
+  "auther": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isTest": true,
+  "isBoard": false,
+  "id": "Stepper",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "arduino"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_menus/arduino.json",
+        "_locales/zh-cn.json",
+        "_images/icon.svg", 
+        "libraries/Stepper/Stepper.h",
+        "libraries/Stepper/Stepper.cpp"
+      ]
+    }
+  }
+}
